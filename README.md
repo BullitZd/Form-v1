@@ -1,5 +1,7 @@
 # Form Login dan Register sederhana HTML, CSS, vanilla JAVASCRIPT
 
+Form Login dan Daftar sederhana menggunakan Html, Css, dan VanilaJavascript polos.
+
 ### Screenshot:
 
 ![mobile](https://i.ibb.co.com/C7qkf31/Screenshot-2024-10-25-20-41-28-888-com-foxdebug-acodefree.jpg)
@@ -15,4 +17,4 @@
   ```bash
   npm start
   ```
-- Lalu buka browser `http://localhost:3000`
+- Buka browser `http://localhost:3000`
