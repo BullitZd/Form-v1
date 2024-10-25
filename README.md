@@ -1,4 +1,4 @@
-## Form v1
+# Form Login dan Register sederhana HTML, CSS, vanilla JAVASCRIPT
 
 ### Screenshot:
 
@@ -6,3 +6,13 @@
 
 ![console](https://i.ibb.co.com/HY9HHvn/Screenshot-2024-10-25-20-38-49-709-com-foxdebug-acodefree.jpg)
 
+### Instalasi [Termux]:
+- Unduh Repository:
+  ```bash
+  git clone https://github.com/BullitZd/Form-v1.git
+  ```
+- Jalankan Server:
+  ```bash
+  npm start
+  ```
+- Lalu buka browser `http://localhost:3000`
